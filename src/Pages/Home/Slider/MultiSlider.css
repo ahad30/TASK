@@ -1,0 +1,7 @@
+.slide-item {
+  transition: all 0.3s ease-in-out;
+}
+
+.slick-active .slide-item {
+  transform: scale(1.1);
+}
